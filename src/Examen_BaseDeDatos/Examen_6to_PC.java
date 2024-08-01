@@ -1,6 +1,6 @@
-package ejemplobasedatos;
+package Examen_BaseDeDatos;
 
-public class EjemploBaseDatos {
+public class Examen_6to_PC {
 
     public static void main(String[] args) {
         Formulario LlenarFormulario = new Formulario();

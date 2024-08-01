@@ -1,4 +1,4 @@
-package ejemplobasedatos;
+package Examen_BaseDeDatos;
 
 import java.sql.*;
 
